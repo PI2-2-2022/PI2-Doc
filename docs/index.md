@@ -11,9 +11,9 @@
 <div  style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 2em; gap: 0em">
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 1em; margin-right: 1em">
     <div style="width: 200px; height: 200px">
-      <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/u/97410112?v=4"/>
+      <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/u/31935777?v=4"/>
     </div><br/>
-    <label><b>Flávio</b></label>
+    <label><b>Flavio Vieira</b></label>
   </div>
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 1em; margin-right: 1em">
     <div style="width: 200px; height: 200px">
