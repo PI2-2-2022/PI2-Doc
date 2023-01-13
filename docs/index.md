@@ -45,4 +45,10 @@
     </div><br/>
     <label><b>Vitor Alves</b></label>
   </div>
+  <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 1em; margin-right: 1em">
+    <div style="width: 200px; height: 200px">
+      <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/u/32902438?v=4"/>
+    </div><br/>
+    <label><b>André Freitas</b></label>
+  </div>
 </div>
